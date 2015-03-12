@@ -26,4 +26,7 @@ In general you should trust the source that your loading from. While script, and
 The scripts tags aren't removed to prevent [XSS](https://www.owasp.org/index.php/Cross-site_Scripting_%28XSS%29), rather they're removed because the framework doesn't support them.
 </span>
 
+### Alternatives
+* https://github.com/adjohnson916/html-imports-content
+
 This software is released under the [MIT License](http://opensource.org/licenses/MIT).
