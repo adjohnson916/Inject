@@ -27,6 +27,6 @@ The scripts tags aren't removed to prevent [XSS](https://www.owasp.org/index.php
 </span>
 
 ### Alternatives
-* https://github.com/adjohnson916/html-imports-content
+* https://github.com/AndersDJohnson/html-imports-content
 
 This software is released under the [MIT License](http://opensource.org/licenses/MIT).
